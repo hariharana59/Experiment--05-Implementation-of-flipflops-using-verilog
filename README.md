@@ -1,7 +1,8 @@
 ### Name: Hariharan.A
 ### Register number: 23012392
 
-#### Experiment 05 Implementation of flipflops using verilog
+
+# Experiment 05 Implementation of flipflops using verilog
 
 ### AIM: 
 To implement all the flipflops using verilog and validating their functionality using their functional tables
@@ -108,7 +109,7 @@ From the above characteristic table, we can directly write the next state equati
 Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
-#### PROGRAM 
+## PROGRAM 
 
 ## SR flipflop:-
 ```
@@ -171,7 +172,8 @@ end
 endmodule
 ```
 
-#### RTL LOGIC FOR FLIPFLOPS 
+## RTL LOGIC FOR FLIPFLOPS 
+
 ## SR flipflop:-
 ![image](https://github.com/hariharana59/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144980130/3858b2b4-02df-4736-b2c9-b783f5f171f1)
 
@@ -184,7 +186,8 @@ endmodule
 ## T flipflop:-
 ![image](https://github.com/hariharana59/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144980130/96da02cb-e34a-44cf-813d-f036fe9faa85)
 
-#### TIMING DIGRAMS FOR FLIP FLOPS 
+# TIMING DIGRAMS FOR FLIP FLOPS 
+
 ## SR flipflop:-
 ![image](https://github.com/hariharana59/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144980130/cafb7a2b-d052-4ed2-8d6d-7f7447246ed2)
 ## D flipflop:-
